@@ -1,0 +1,10 @@
+{
+  "name": "tracking",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "checkly": "8.16.0",
+    "typescript": "^5.9.3"
+  }
+}
